@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Develop prediction tools
 
 Summary -- Deliver a first set of prediction tools for the mass function, the matter power spectrum, the
 concentration-mass relation, and the galaxy correlation function, including massive neutrinos and a dynamical
