@@ -10,6 +10,7 @@ into account accuracy requirements for DC1 and available computing resources.
 Heitmann et al. (2015).
 * Key Task CS6.1.2 ( 09/16 ): Extract prediction tools using emulator techniques.
 * Key Task CS6.1.3 ( 09/16 ): Explore alternative methods.
+* Key Task CS6.2.1 ( 12/16 ): Generate document that lists all requirements for DC2/DC3
 
 #### Suggested organization
 Repositories are available per deliverable.  Each key task has a subdirectory.
